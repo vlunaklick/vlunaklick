@@ -1,8 +1,6 @@
 <h1 align="center">Welcome 🍁 Valentín</h1>
 <h3 align="center">A future full-stack web Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vlunaklick" alt="vlunaklick" /></a> </p>
-
 - 🌱 At the moment I’m learning **React and Node.**
 
 - 📫 How to reach me **v.lunaklick@gmail.com**
@@ -19,6 +17,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vlunaklick&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="vlunaklick" /></p>
 
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vlunaklick&show_icons=true&theme=synthwave&locale=en" alt="vlunaklick" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vlunaklick&theme=dark" alt="vlunaklick" /></p>
