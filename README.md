@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Valentín</h1>
 <h3 align="center">A future full-stack web Developer</h3>
 
-- 🌱 Actualmente estoy aprendiendo **React**
+- 🌱 Actualmente estoy aprendiendo: **React**
 
-- 📫 How to reach me **v.lunaklick@gmail.com**
+- 📫 Para contactarme: **v.lunaklick@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
