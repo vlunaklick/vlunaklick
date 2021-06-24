@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Valentín</h1>
+<h1 align="center">Welcome, I'm Valentín</h1>
 <h3 align="center">A future full-stack web Developer</h3>
 
 - 🌱 At the moment I'm learning: **React**
