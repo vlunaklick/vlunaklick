@@ -1,11 +1,11 @@
 <h1 align="center">Welcome 🍁 Valentín</h1>
 <h3 align="center">A future full-stack web Developer</h3>
 
-- 🌱 At the moment I’m learning **React and Node.**
+- 🌱 At the moment I’m learning: **React and Node.**
 
-- 📫 How to reach me **v.lunaklick@gmail.com**
+- 📫 How to reach me: **v.lunaklick@gmail.com**
 
-- 🧪 Fun fact **Here you can see my travel from zero to full-stack web Developer.**
+- 🧪 Fun fact: **Here you can see my travel from zero to full-stack web Developer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
