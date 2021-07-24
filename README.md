@@ -5,7 +5,7 @@
 
 - 📫 **How to reach me:** v.lunaklick@gmail.com
 
-- 🧪 **About this github:** here you can see me go from zero to full-stack web Developer.
+- 🧪 **About this GitHub:** here you can see me go from zero to full-stack web Developer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
