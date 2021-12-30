@@ -1,7 +1,7 @@
 <h1 align="center">Welcome 🍁 I'm Valentín</h1>
 <h3 align="center">A future full-stack web Developer</h3>
 
-- 🌱 **At the moment I’m learning:** Node.js
+- 🌱 **At the moment:** improving my projects.
 
 - 📫 **How to reach me:** v.lunaklick@gmail.com
 
