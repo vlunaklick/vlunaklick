@@ -1,10 +1,10 @@
 ## Welcome, I'm [Valentín](https://vlnck.vercel.app/)! 🐉
 
-I am a Full Stack Developer with a focus on Frontend Development. I have a passion for technology and am always looking for new challenges and opportunities to grow in my career.
+Full Stack Software Engineer with a focus on frontend. I have a passion for technology and am always looking for new challenges and opportunities to grow in my career.
 
 ## Tech stack
 
-My primary tech stack includes JavaScript, React, and Next.js, as well as strong experience in using Express, Prisma, and PostgreSQL. I am also proficient in using TailwindCSS and NodeJS.
+As my favorite tech stack, I use JavaScript and TypeScript, React and Next.js, Express, Prisma and PostgreSQL. Also, I am proficient using TailwindCSS and NodeJS.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
